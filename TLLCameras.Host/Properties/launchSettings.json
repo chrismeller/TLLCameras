@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TLLCameras.Host": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\chris\\Desktop"
+    }
+  }
+}
